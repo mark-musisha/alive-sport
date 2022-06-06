@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "alive",
+    "slug": "alive",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "alive"
+}
